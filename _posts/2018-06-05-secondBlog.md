@@ -8,7 +8,10 @@ comments: 1
 ---
 ## 测试博客
 
-  - [我的github主页](github.com/MUSANL)
+  - [我的github主页](https://github.com/MUSANL)
+  
+  
+  ![](/assets/res/user.png)
   
 > 我的博客
 ```java
